@@ -1,3 +1,4 @@
+git pull --rebase origin master
 import time
 from json import loads as json_loads
 from json import dumps as json_dumps
